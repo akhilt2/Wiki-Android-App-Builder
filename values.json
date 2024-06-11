@@ -1,0 +1,47 @@
+{
+	"AppName" : "" ,
+	"PackageName" : "" ,
+	"Version" : "" ,
+	"VersionCode" : "" ,
+	"BaseDomain" : "" ,
+	"ApiUrlPrefix" : "api.php" ,
+	"RESTApiUrlPrefix" : "rest.php/v1" ,
+	"WikiUrlPrefix" : "index.php" ,
+	"Images" :
+	{
+		"RoundedLauncherLogo" : "" ,
+		"LauncherLogo" :
+		{
+			"Rectangle" :
+			{
+				"mdpi" : "" ,
+				"hdpi" : "" ,
+				"xhdpi" : "" ,
+				"xxhdpi" : "" ,
+				"xxxhdpi" : "" ,
+				"launcher.xml" : "" ,
+				"launcher_foreground.xml" : "" ,
+				"launcher_background.xml" : "" ,
+				"playstore-512x512" : ""
+			} ,
+			"Round" :
+			{
+				"mdpi" : "" ,
+				"hdpi" : "" ,
+				"xhdpi" : "" ,
+				"xxhdpi" : "" ,
+				"xxxhdpi" : "" ,
+				"launcher.xml" : "" ,
+				"launcher_foreground.xml" : "" ,
+				"launcher_background.xml" : ""
+			}
+		} ,
+		"WikiLogoTransparent" : "" ,
+		"HeaderLogo" :
+		{
+			"SVG" : "" ,
+			"PNG" : ""
+		}
+	} ,
+	"Keystore" : ""
+}
